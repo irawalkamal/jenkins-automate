@@ -1,5 +1,8 @@
 {
   "scripts": {
     "start": "node runScripts.js"
+  },
+  "dependencies": {
+    "puppeteer": "^13.1.0"
   }
 }
